@@ -3,21 +3,19 @@ menu:
 - {name: 'research', url: '/research'}
 - {name: 'publications', url: '/publications'}
 - {name: 'courses', url: '/courses'}
-  #- {name: 'cv', url: '/cv'}
 - {name: 'contact', url: '/contact'}
 
 people:
-- {name: 'Penghao Xiao', title: 'Primary Investigator', department: 'Physics & Atmospheric Science', institution: 'Dalhousie University', address: 'Halifax, Canada', email: 'pxiao@dal.ca', office: 'Dunn Building 230', image: 'assets/img/primary-investigator.jpg', url: 'primary-investigator'}
-- {name: '', title: 'Undergraduate Student', department: 'Physics & Atmospheric Science', institution: 'Dalhousie University', email: 'wangyi@ddal.ca', office: 'Dunn Building 320', image: 'assets/img/YiWang.jpg', url: 'Yi-Wang'}
+- {name: 'Penghao Xiao', role: 'Primary Investigator', department: 'Physics & Atmospheric Science', institution: 'Dalhousie University', address: 'Halifax, NS, Canada', email: 'pxiao@dal.ca', phone: '(902) 494-2340', office: 'Dunn Building 230', image: 'assets/img/primary-investigator.jpg', url: 'primary-investigator'}
+- {name: 'Yi Wang', role: 'Undergraduate Student', department: 'Physics & Atmospheric Science', institution: 'Dalhousie University', email: 'wangyi@ddal.ca', office: 'Dunn Building 320', image: 'assets/img/YiWang.jpg', url: 'Yi-Wang'}
 
 courses:
-- {name: 'PHYS4230', url: 'PHYS4230'}
+- {name: 'PHYC4230', url: 'PHYC4230'}
 
 social:
-- {icon: 'github', link: 'https://github.com/LeNPaul'}
-- {icon: 'twitter', link: 'https://twitter.com/paululele'}
-- {icon: 'instagram', link: 'https://instagram.com/paululele'}
-- {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
+- {icon: 'github', link: 'https://github.com/Penghao-Xiao'}
+- {icon: 'twitter', link: 'https://twitter.com/DrPenghao'}
+- {icon: 'linkedin', link: 'https://linkedin.com/in/penghao-xiao-937a6362'}
 
 contacts:
-- {name: 'Dr. Academia', title: 'Professor', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/contact.jpg'}
+- {name: 'Dr. Penghao Xiao', title: 'Assitant Professor', department: 'Physics & Atmospheric Science', institution: 'Dalhousie University', institution_address: 'Halifax, NS, Canada', phone: '(902) 494-2340', email: 'pxiao@dal.ca', office: 'Dunn Building 230'}
