@@ -1,9 +1,7 @@
 ---
 layout: page
-title: "Undergraduate Students"
+title: "Yi Wang"
 ---
-
-Yi Wang
 
 BSc Honour’s in Physics: Dalhousie University (2019-)
 
