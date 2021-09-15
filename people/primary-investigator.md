@@ -1,9 +1,7 @@
 ---
 layout: page
-title: "Primary Investigator"
+title: "Penghao Xiao"
 ---
-
-Penghao Xiao 
 
 Assistant Professor
 
