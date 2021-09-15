@@ -22,7 +22,7 @@ title: PhX Group
   #email: pxiao@dal.ca
   #description: >- # this means to ignore newlines until "baseurl:"
 description: Kinetic Simulation for Energy and Sustainability
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/xiao_group" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
   #twitter_username: DrPenghao
   #github_username:  penghao-xiao
