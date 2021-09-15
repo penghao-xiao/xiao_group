@@ -7,7 +7,7 @@ menu:
 
 people:
 - {name: 'Penghao Xiao', role: 'Primary Investigator', department: 'Physics & Atmospheric Science', institution: 'Dalhousie University', address: 'Halifax, NS, Canada', email: 'pxiao@dal.ca', phone: '(902) 494-2340', office: 'Dunn Building 230', image: 'assets/img/primary-investigator.jpg', url: 'primary-investigator'}
-- {name: 'Yi Wang', role: 'Undergraduate Student', department: 'Physics & Atmospheric Science', institution: 'Dalhousie University', email: 'wangyi@ddal.ca', office: 'Dunn Building 320', image: 'assets/img/YiWang.jpg', url: 'Yi-Wang'}
+- {name: 'Yi Wang', role: 'Undergraduate Student', department: 'Physics & Atmospheric Science', institution: 'Dalhousie University', email: 'wangyi@dal.ca', office: 'Dunn Building 320', image: 'assets/img/YiWang.jpg', url: 'Yi-Wang'}
 
 courses:
 - {name: 'PHYC4230', url: 'PHYC4230'}
