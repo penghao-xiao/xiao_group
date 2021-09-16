@@ -7,7 +7,7 @@ title: "Research Directions"
 
 1. **Battery materials**
 
-   <img src="{{ site.github.url }}/assets/img/struc5800_2.png" alt="drawing" width="400"/>
+   <img src="{{ site.github.url }}/research/battery.png" alt="drawing"  width="900"/>
 
    We simulate the motions of intercalating ions (Li<sup>+</sup>, Na<sup>+</sup> etc.) in inhomogeneous local environments, as well as the dynamic rearrangement of host materials. This combination allows us cover three aspects of battery materials from first-principles calculations: synthesis, performance degradation, and characterization. 
 
@@ -17,11 +17,13 @@ title: "Research Directions"
 
 2. **Electrocatalysis**
 
-   <img src="{{ site.github.url }}/assets/img/eNEB_toc.png" alt="drawing" width="400" />
+   <img src="{{ site.github.url }}/research/eNEB_toc.png" alt="drawing" width="400" style="float: right;" />
 
    We have developed a set of [computational methods](https://github.com/penghao-xiao/Electrochemical-barrier) to exactly assess the effect of applied voltage on surface reaction rates. The number of electrons is treated as an additional degree of freedom that responses to the electrode potential, so that the electrochemical driving force is directly applied in DFT calculations. This approach can handle partial charge transfer, quantify the symmetry factor of charge transfer, reveal the coupling between net charge and geometry relaxation. We are interested in revisiting the reaction mechanisms in some important electrochemical systems, such as CO<sub>2</sub> reduction, OER for water splitting and Zn-O2 battery.  
 
 3. **Corrosion**
+
+   <img src="{{ site.github.url }}/research/corrosion.png" alt="drawing" width="400" style="float: right;" />
 
    Corrosion and passivation involve cation diffusion, oxygen reduction/evolution and cation dissolution. The computational approaches in both battery and electrocatalysis can be applied here. We are interested in the corrosion of structural alloys, as well as the degradation of batteries and catalysts. 
 
