@@ -15,7 +15,7 @@ title: "Research Directions"
 
 2. **Electrocatalysis**
 
-   We have developed the eNEB method to exactly evaluate the effect of applied voltage on surface reaction rates. Using this method, we are interested in revisiting the reaction mechanisms in some important electrochemical systems, such as CO<sub>2</sub> reduction, OER for water splitting and Zn-O2 battery.  
+   We have developed a set of computational methods to exactly assess the effect of applied voltage on surface reaction rates. The number of electrons is treated as an additional degree of freedom that responses to the electrode potential, so that the electrochemical driving force is directly applied in DFT calculations. This approach can handle partial charge transfer, quantify the symmetry factor of charge transfer, reveal the coupling between net charge and geometry relaxation. We are interested in revisiting the reaction mechanisms in some important electrochemical systems, such as CO<sub>2</sub> reduction, OER for water splitting and Zn-O2 battery.  
 
 3. **Corrosion**
 
