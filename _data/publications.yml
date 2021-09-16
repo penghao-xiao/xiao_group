@@ -1,8 +1,8 @@
 featured:
-- {name: 'Duan, Zhiyao; Xiao, Penghao. (2021). Simulation of Potential-Dependent Activation Energies in Electrocatalysis: Mechanism of O–O Bond Formation on RuO2. The Journal of Physical Chemistry C. 125(28): 15243–15250.', url: 'https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.1c02998'}
-- {name: 'Chen, Qing; Pei, Yi; Chen, Houwen; Song, Yan; Zhen, Liang; Xu, Cheng-Yan; Xiao, Penghao ; Henkelman, Graeme. (2020). Highly reversible oxygen redox in layered compounds enabled by surface polyanions. Nature Communications. 11(1): 1-12.', url: 'https://www.nature.com/articles/s41467-020-17126-3'}
-- {name: 'Hong, Jihyun; Gent, William; Xiao, Penghao; et al. (2019). Metal-Oxygen Decoordination Stabilizes Anion Redox in Li-rich Oxides. Nature Materials. 18: 256–265.', url: 'https://www.nature.com/articles/s41563-018-0276-1'}
-- {name: 'Xiao, Penghao; Shi, Tan; Huang, Wenxuan; Ceder, Gerbrand. (2019). Understanding Surface Densified Phases in Ni-Rich Layered Compounds. ACS Energy Letters. 4(4): 811-818.', url: 'https://pubs.acs.org/doi/10.1021/acsenergylett.9b00122'}
+- {name: 'Duan, Zhiyao; Xiao, Penghao. (2021). Simulation of Potential-Dependent Activation Energies in Electrocatalysis: Mechanism of O–O Bond Formation on RuO2. <em>The Journal of Physical Chemistry C</em>. 125(28): 15243–15250.', url: 'https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.1c02998'}
+- {name: 'Chen, Qing; Pei, Yi; Chen, Houwen; Song, Yan; Zhen, Liang; Xu, Cheng-Yan; Xiao, Penghao ; Henkelman, Graeme. (2020). Highly reversible oxygen redox in layered compounds enabled by surface polyanions. <em>Nature Communications</em>. 11(1): 1-12.', url: 'https://www.nature.com/articles/s41467-020-17126-3'}
+- {name: 'Hong, Jihyun; Gent, William; Xiao, Penghao; et al. (2019). Metal-Oxygen Decoordination Stabilizes Anion Redox in Li-rich Oxides. <em>Nature Materials</em>. 18: 256–265.', url: 'https://www.nature.com/articles/s41563-018-0276-1'}
+- {name: 'Xiao, Penghao; Shi, Tan; Huang, Wenxuan; Ceder, Gerbrand. (2019). Understanding Surface Densified Phases in Ni-Rich Layered Compounds. <em>ACS Energy Letters</em>. 4(4): 811-818.', url: 'https://pubs.acs.org/doi/10.1021/acsenergylett.9b00122'}
 
 index:
 - {name: 'The Complete List on Google Scholar', url: 'https://scholar.google.com/citations?user=6sM4hHcAAAAJ&hl=en'}

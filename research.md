@@ -7,7 +7,7 @@ title: "Research Directions"
 
 1. **Battery materials**
 
-   <img src="{{ site.github.url }}/research/battery.png" alt="drawing"  width="900"/>
+   <img src="{{ site.github.url }}/research/battery.png" alt="drawing"  width="830"/>
 
    We simulate the motions of intercalating ions (Li<sup>+</sup>, Na<sup>+</sup> etc.) in inhomogeneous local environments, as well as the dynamic rearrangement of host materials. This combination allows us cover three aspects of battery materials from first-principles calculations: synthesis, performance degradation, and characterization. 
 

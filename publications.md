@@ -3,8 +3,8 @@ layout: publications
 title: "Publications"
 ---
 
-1. Chen, Qing; Pei, Yi; Chen, Houwen; Song, Yan; Zhen, Liang; Xu, Cheng-Yan; Xiao, Penghao ; Henkelman, Graeme. (2020). Highly reversible oxygen redox in layered compounds enabled by surface polyanions. [<em>Nature Communications</em>. 11(1): 1-12.](https://www.nature.com/articles/s41467-020-17126-3)
-2. Duan, Zhiyao; Xiao, Penghao. (2021). Simulation of Potential-Dependent Activation Energies in Electrocatalysis: Mechanism of O–O Bond Formation on RuO2. <em>The Journal of Physical Chemistry C</em>. 125(28): 15243–15250.
+1. Duan, Zhiyao; Xiao, Penghao. (2021). Simulation of Potential-Dependent Activation Energies in Electrocatalysis: Mechanism of O–O Bond Formation on RuO2. <em>The Journal of Physical Chemistry C</em>. 125(28): 15243–15250.
+2. Chen, Qing; Pei, Yi; Chen, Houwen; Song, Yan; Zhen, Liang; Xu, Cheng-Yan; Xiao, Penghao ; Henkelman, Graeme. (2020). Highly reversible oxygen redox in layered compounds enabled by surface polyanions. [<em>Nature Communications</em>. 11(1): 1-12.](https://www.nature.com/articles/s41467-020-17126-3)
 3. Hong, Jihyun; Gent, William; Xiao, Penghao; et al. (2019). Metal-Oxygen Decoordination Stabilizes Anion Redox in Li-rich Oxides. <em>Nature Materials</em>. 18: 256–265.
 4. Xiao, Penghao; Shi, Tan; Huang, Wenxuan; Ceder, Gerbrand. (2019). Understanding Surface Densified Phases in Ni-Rich Layered Compounds. [<em>ACS Energy Letters</em>. 4(4): 811-818.](https://pubs.acs.org/doi/10.1021/acsenergylett.9b00122)
 5. Xiao, Penghao; Henkelman, Graeme. (2018). Kinetic Monte Carlo Study of Li Intercalation in LiFePO4. <em>ACS Nano</em>. 12(1): 844-851.
