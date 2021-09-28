@@ -7,11 +7,11 @@ title: "Research Directions"
 
 1. **Battery materials**
 
-   <img src="{{ site.github.url }}/research/battery.png" alt="drawing"  width="400"/>
+   <img src="{{ site.github.url }}/research/battery.png" alt="drawing"  width="400"  style="float: right;"/>
 
    We simulate the motions of intercalating ions (Li<sup>+</sup>, Na<sup>+</sup> etc.) in inhomogeneous local environments, as well as the dynamic rearrangement of host materials. This combination allows us cover three aspects of battery materials from first-principles calculations: synthesis, performance degradation, and characterization. 
 
-   <img src="{{ site.github.url }}/research/approach.png" alt="drawing"  width="300"/>
+   <img src="{{ site.github.url }}/research/approach.png" alt="drawing"  width="300"  style="float: right;"/>
 
    The computational framework under active development is shown in the above figure.  Energies from the density functional theory (DFT) lay the foundation, from which effective interactions between moving ions can be extracted. Then diffusion barriers are acquired with a surrogate model and inputted to kinetic Monte Carlo for long time scale dynamics. Finally, macroscopic characterization signals are generated from the statistical average to make our predictions provable in experiments. We will focus on electrochemical measurements which sensitively reflect the structure-kinetic relationship and are vastly accessible experimentally. These include cyclic voltammetry (CV), potentiostatic intermittent titration (PITT), EIS, galvanostatic intermittent titration (GITT), and Atlung method for intercalant diffusion (AMID). 
 
