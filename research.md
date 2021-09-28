@@ -7,11 +7,13 @@ title: "Research Directions"
 
 1. **Battery materials**
 
-   <img src="{{ site.github.url }}/research/battery.png" alt="drawing"  width="830"/>
+   <img src="{{ site.github.url }}/research/battery.png" alt="drawing"  width="400"/>
 
    We simulate the motions of intercalating ions (Li<sup>+</sup>, Na<sup>+</sup> etc.) in inhomogeneous local environments, as well as the dynamic rearrangement of host materials. This combination allows us cover three aspects of battery materials from first-principles calculations: synthesis, performance degradation, and characterization. 
 
-   First DFT is used to extract effective interactions between moving ions. Then the diffusion barriers are fed to kinetic Monte Carlo simulations where all ion migrations during synthesis and degradation could be captured. Finally, macroscopic characterization signals are generated from atomistic simulations to make our predictions provable in experiments. We will focus on electrochemical measurements which sensitively reflect structure-kinetic relationships and are vastly accessible by most experiment groups. These include cyclic voltammetry (CV), potentiostatic intermittent titration (PITT), EIS, galvanostatic intermittent titration (GITT), and Atlung method for intercalant diffusion (AMID). 
+   <img src="{{ site.github.url }}/research/approach.png" alt="drawing"  width="300"/>
+
+   The computational framework under active development is shown in the above figure.  Energies from the density functional theory (DFT) lay the foundation, from which effective interactions between moving ions can be extracted. Then diffusion barriers are acquired with a surrogate model and inputted to kinetic Monte Carlo for long time scale dynamics. Finally, macroscopic characterization signals are generated from the statistical average to make our predictions provable in experiments. We will focus on electrochemical measurements which sensitively reflect the structure-kinetic relationship and are vastly accessible experimentally. These include cyclic voltammetry (CV), potentiostatic intermittent titration (PITT), EIS, galvanostatic intermittent titration (GITT), and Atlung method for intercalant diffusion (AMID). 
 
    Currently we are interested in the kinetics of LiFe<sub>1-x</sub>M<sub>x</sub>PO<sub>4</sub> and LiNi<sub>1-x</sub>M<sub>x</sub>O<sub>2</sub> where M=Mn, Li. 
 
@@ -19,7 +21,7 @@ title: "Research Directions"
 
    <img src="{{ site.github.url }}/research/eNEB_toc.png" alt="drawing" width="400" style="float: right;" />
 
-   We have developed a set of [computational methods](https://github.com/penghao-xiao/Electrochemical-barrier) to exactly assess the effect of applied voltage on surface reaction rates. The number of electrons is treated as an additional degree of freedom that responses to the electrode potential, so that the electrochemical driving force is directly applied in DFT calculations. This approach can handle partial charge transfer, quantify the symmetry factor of charge transfer, reveal the coupling between net charge and geometry relaxation. We are interested in revisiting the reaction mechanisms in some important electrochemical systems, such as CO<sub>2</sub> reduction, OER for water splitting and Zn-O2 battery.  
+   We have developed a set of [computational methods](https://github.com/penghao-xiao/Electrochemical-barrier) to exactly assess the effect of applied voltage on surface reaction rates. The number of electrons is treated as an additional degree of freedom that responses to the electrode potential, so that the electrochemical driving force is directly applied in DFT calculations. This approach can handle partial charge transfer, quantify the symmetry factor of charge transfer, reveal the coupling between net charge and geometry relaxation. We are interested in revisiting the reaction mechanisms in some important electrochemical systems, such as CO<sub>2</sub> reduction, OER for water splitting and Zn-O<sub>2</sub> battery.  
 
 3. **Corrosion**
 
