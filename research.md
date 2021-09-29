@@ -3,7 +3,7 @@ layout: page
 title: "Research Directions"
 ---
 
-**Specialization Keywords**: atomic simulations, density functional theory (DFT), solid-state physics, statistical mechanics
+**Specialization Keywords**: atomistic simulation, density functional theory (DFT), solid-state physics, statistical mechanics
 
 1. **Battery materials**
 
