@@ -31,3 +31,4 @@ title: "Research Directions"
 
    We develop numerical algorithms for long time dynamics, including saddle point search algorithms for off-lattice models and density function theory (DFT) informed kinetic Monte Carlo methods for lattice models. We are also interested in using machine learning to accelerate the above from existing data.
 
+   <img src="{{ site.github.url }}/research/movie_NiCrO_400K_0.65V_tmp100-800.gif" alt="drawing" width="400" style="float: right;" />
