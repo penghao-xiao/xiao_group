@@ -9,6 +9,6 @@ BTech: Delhi Technological University (2017-2021)
 
 Email: Shivam.Beniwal@Dal.Ca
 
-Office: Dunn Building 234
+Office: Dunn Building 243
 
 ---
