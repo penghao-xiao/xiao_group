@@ -7,7 +7,7 @@ menu:
 
 people:
 - {name: 'Penghao Xiao', role: 'Primary Investigator', department: 'Physics & Atmospheric Science', institution: 'Dalhousie University', address: 'Halifax, NS, Canada', email: 'pxiao@dal.ca', phone: '(902) 494-2340', office: 'Dunn Building 230', image: 'assets/img/primary-investigator.jpg', url: 'primary-investigator'}
-- {name: 'Shivam Beniwal', role: 'PhD Student', department: 'Physics & Atmospheric Science', institution: 'Dalhousie University', email: 'Shivam.Beniwal@dal.ca', office: 'Dunn Building 243', image: 'assets/img/graduate_student.png', url: 'shivam-beniwal'}
+- {name: 'Shivam Beniwal', role: 'PhD Student', department: 'Physics & Atmospheric Science', institution: 'Dalhousie University', email: 'Shivam.Beniwal@dal.ca', office: 'Dunn Building 243', image: 'assets/img/shivam-beniwal.jpg', url: 'shivam-beniwal'}
 - {name: 'Yi Wang', role: 'Undergraduate Student', department: 'Physics & Atmospheric Science', institution: 'Dalhousie University', email: 'wangyi@dal.ca', office: 'Dunn Building 320', image: 'assets/img/YiWang.jpg', url: 'Yi-Wang'}
 
 courses:
