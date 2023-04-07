@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Congratulations Courtney and Talia!"
+date:   2023-04-06 23:27:00 
+categories: my update
+---
+Courtney and Talia have graduated from our first-ever DISP batch.
