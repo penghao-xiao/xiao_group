@@ -11,6 +11,7 @@ people:
 - {name: 'Harold Smith Perez', role: 'Masters Student', department: 'Physics & Atmospheric Science', institution: 'Dalhousie University', email: 'hsmithperez@dal.ca', office: 'Dunn Building 243', image: 'assets/img/harold.png', url: 'harold_smith'}
 - {name: 'Courtney Slaunwhite', role: 'DISP Student', department: 'Physics & Atmospheric Science', institution: 'Dalhousie University', email: 'cr550044@dal.ca', image: 'assets/img/cs_Image.jpeg', url: 'courtney_slaunwhite'}
 - {name: 'Talia Field', role: 'DISP Student', department: 'Physics & Atmospheric Science', institution: 'Dalhousie University', email: 'tl903393@dal.ca', image: 'assets/img/IMG_6615.jpg', url: 'talia_field'}
+- {name: 'Owen Sullivan', role: 'Undergraduate Student', department: 'Physics & Atmospheric Science', institution: 'Dalhousie University', email: 'owensullivan@dal.ca', image: '', url: ''}
 - {name: 'Shraddha Singh', role: 'Undergraduate Student', department: 'Physics & Atmospheric Science', institution: 'Dalhousie University', email: 'sh913738@dal.ca', image: '', url: 'shraddha_singh'}
 - {name: 'Minjoon Park', role: 'Intern', email: 'mn812994@dal.ca', image: '', url: 'minjoon_park'}
 - {name: 'Yi Wang', role: 'Undergraduate Student', department: 'Physics & Atmospheric Science', institution: 'Dalhousie University', email: 'wangyi@dal.ca', office: 'Dunn Building 320', image: 'assets/img/YiWang.jpg', url: 'Yi-Wang'}
