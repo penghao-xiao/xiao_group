@@ -3,13 +3,13 @@ layout: publications
 title: "Publications"
 ---
 
-1. Xiao*, P., Orme, C. A., Qiu, S. R., Pham, T. A., Cho, S., Bagge-Hansen, M., & Wood, B. C. (2025). Atomic-scale understanding of oxide growth and dissolution kinetics of Ni-Cr alloys. <em>Nature Communications</em>. 16(1): 341.
-2. Xiao*, P. (2025). Capacity Decay in LiNiO2: An Atomistic Kinetic Picture. <em>ACS Energy Letters</em>. 10: 639-646.
+1. Xiao\*, P., Orme, C. A., Qiu, S. R., Pham, T. A., Cho, S., Bagge-Hansen, M., & Wood, B. C. (2025). Atomic-scale understanding of oxide growth and dissolution kinetics of Ni-Cr alloys. <em>Nature Communications</em>. 16(1): 341.
+2. Xiao\*, P. (2025). Capacity Decay in LiNiO2: An Atomistic Kinetic Picture. <em>ACS Energy Letters</em>. 10: 639-646.
 3. Fantasia A.; Rovaris F. et al. (2024). Development of a machine learning interatomic potential for exploring pressure-dependent kinetics of phase transitions in germanium. <em>J. Chem. Phys</em>. 161: 014110.
-4. Xiao*, P; Zhang, N; Smith-Perez, H; Park M. (2024). Atomistic Origins of Asymmetric Charge–Discharge Kinetics in Off-Stoichiometric LiNiO2. <em>Chemistry of Materials</em>. 37(7): 3296-3306.
-5. Li, M; Shen, Y; Luo, K; An*, Q; Gao*, P; Xiao*, P; Zou*, Y. (2023). Harnessing dislocation motion using an electric field. <em>Nature Materials</em>. 22(8): 958–963.
-6. Duan*, Zhiyao; Xiao*, Penghao. (2021). Simulation of Potential-Dependent Activation Energies in Electrocatalysis: Mechanism of O–O Bond Formation on RuO2. <em>The Journal of Physical Chemistry C</em>. 125(28): 15243–15250.
-7. Chen, Qing; Pei, Yi; Chen, Houwen; Song, Yan; Zhen, Liang; Xu*, Cheng-Yan; Xiao*, Penghao; Henkelman*, Graeme. (2020). Highly reversible oxygen redox in layered compounds enabled by surface polyanions. [<em>Nature Communications</em>. 11(1): 1-12.](https://www.nature.com/articles/s41467-020-17126-3)
+4. Xiao\*, P; Zhang, N; Smith-Perez, H; Park M. (2024). Atomistic Origins of Asymmetric Charge–Discharge Kinetics in Off-Stoichiometric LiNiO2. <em>Chemistry of Materials</em>. 37(7): 3296-3306.
+5. Li, M; Shen, Y; Luo, K; An\*, Q; Gao\*, P; Xiao\*, P; Zou\*, Y. (2023). Harnessing dislocation motion using an electric field. <em>Nature Materials</em>. 22(8): 958–963.
+6. Duan\*, Zhiyao; Xiao\*, Penghao. (2021). Simulation of Potential-Dependent Activation Energies in Electrocatalysis: Mechanism of O–O Bond Formation on RuO2. <em>The Journal of Physical Chemistry C</em>. 125(28): 15243–15250.
+7. Chen, Qing; Pei, Yi; Chen, Houwen; Song, Yan; Zhen, Liang; Xu\*, Cheng-Yan; Xiao\*, Penghao; Henkelman\*, Graeme. (2020). Highly reversible oxygen redox in layered compounds enabled by surface polyanions. [<em>Nature Communications</em>. 11(1): 1-12.](https://www.nature.com/articles/s41467-020-17126-3)
 8. Hong, Jihyun; Gent, William; Xiao, Penghao; et al. (2019). Metal-Oxygen Decoordination Stabilizes Anion Redox in Li-rich Oxides. <em>Nature Materials</em>. 18: 256–265.
 9. Xiao, Penghao; Shi, Tan; Huang, Wenxuan; Ceder, Gerbrand. (2019). Understanding Surface Densified Phases in Ni-Rich Layered Compounds. [<em>ACS Energy Letters</em>. 4(4): 811-818.](https://pubs.acs.org/doi/10.1021/acsenergylett.9b00122)
 10. Xiao, Penghao; Henkelman, Graeme. (2018). Kinetic Monte Carlo Study of Li Intercalation in LiFePO4. <em>ACS Nano</em>. 12(1): 844-851.
