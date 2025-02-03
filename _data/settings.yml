@@ -10,14 +10,15 @@ people:
 - {name: 'Shivam Beniwal', role: 'PhD Student', department: 'Physics & Atmospheric Science', institution: 'Dalhousie University', email: 'Shivam.Beniwal@dal.ca', office: 'Dunn Building 243', image: 'assets/img/shivam-beniwal.jpg', url: 'shivam-beniwal'}
 - {name: 'Harold Smith Perez', role: 'PhD Student', department: 'Physics & Atmospheric Science', institution: 'Dalhousie University', email: 'hsmithperez@dal.ca', office: 'Dunn Building 243', image: 'assets/img/harold.png', url: 'harold_smith'}
 - {name: 'Ziyi Zhang', role: 'PhD Student', department: 'Physics & Atmospheric Science', institution: 'Dalhousie University', email: 'zy590554@dal.ca', office: 'Dunn Building 243', image: 'assets/img/ziyi_zhang.jpeg', url: 'ziyi_zhang'}
-- {name: 'Owen Sullivan', role: 'Undergraduate Student', department: 'Physics & Atmospheric Science', institution: 'Dalhousie University', email: 'owensullivan@dal.ca', image: 'assets/img/owenpic.jpeg', url: ''}
+- {name: 'Owen Sullivan', role: 'Undergraduate Student', department: 'Physics & Atmospheric Science', institution: 'Dalhousie University', email: 'owensullivan@dal.ca', image: 'assets/img/owenpic.jpeg'}
 
 alumni:
 - {name: 'Yi Wang', role: 'Undergraduate Student', department: 'Physics & Atmospheric Science', institution: 'Dalhousie University', email: 'wangyi@dal.ca', office: 'Dunn Building 320', image: 'assets/img/YiWang.jpg', url: 'Yi-Wang'}
 - {name: 'Courtney Slaunwhite', role: 'DISP Student', department: 'Physics & Atmospheric Science', institution: 'Dalhousie University', email: 'cr550044@dal.ca', image: 'assets/img/cs_Image.jpeg', url: 'courtney_slaunwhite'}
 - {name: 'Talia Field', role: 'DISP Student', department: 'Physics & Atmospheric Science', institution: 'Dalhousie University', email: 'tl903393@dal.ca', image: 'assets/img/IMG_6615.jpg', url: 'talia_field'}
-- {name: 'Shraddha Singh', role: 'Undergraduate Student', department: 'Physics & Atmospheric Science', institution: 'Dalhousie University', email: 'sh913738@dal.ca', image: '', url: 'shraddha_singh'}
-- {name: 'Minjoon Park', role: 'Intern', email: 'mn812994@dal.ca', image: '', url: 'minjoon_park'}
+- {name: 'Shraddha Singh', role: 'Undergraduate Student', department: 'Physics & Atmospheric Science', institution: 'Dalhousie University', email: 'sh913738@dal.ca'}
+- {name: 'Achinthya Krishna', role: 'MITACS Student', department: 'Physics & Atmospheric Science', institution: 'Dalhousie University', email: 'ac236968@dal.ca', image: 'achinthya-krishna.jpg'}
+- {name: 'Minjoon Park', role: 'Intern', email: 'mn812994@dal.ca', url: 'minjoon_park'}
 
 courses:
 - {name: 'PHYC4230', url: 'PHYC4230'}
