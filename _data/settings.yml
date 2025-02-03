@@ -9,7 +9,7 @@ people:
 - {name: 'Penghao Xiao', role: 'Primary Investigator', department: 'Physics & Atmospheric Science', institution: 'Dalhousie University', address: 'Halifax, NS, Canada', email: 'pxiao@dal.ca', phone: '(902) 494-2340', office: 'Dunn Building 230', image: 'assets/img/primary-investigator.jpg', url: 'primary-investigator'}
 - {name: 'Shivam Beniwal', role: 'PhD Student', department: 'Physics & Atmospheric Science', institution: 'Dalhousie University', email: 'Shivam.Beniwal@dal.ca', office: 'Dunn Building 243', image: 'assets/img/shivam-beniwal.jpg', url: 'shivam-beniwal'}
 - {name: 'Harold Smith Perez', role: 'PhD Student', department: 'Physics & Atmospheric Science', institution: 'Dalhousie University', email: 'hsmithperez@dal.ca', office: 'Dunn Building 243', image: 'assets/img/harold.png', url: 'harold_smith'}
-- {name: 'Ziyi Zhang', role: 'PhD Student', department: 'Physics & Atmospheric Science', institution: 'Dalhousie University', email: 'zy590554@dal.ca', office: 'Dunn Building 243', image: 'assets/img/ziyi-zhang.png', url: 'ziyi_zhang'}
+- {name: 'Ziyi Zhang', role: 'PhD Student', department: 'Physics & Atmospheric Science', institution: 'Dalhousie University', email: 'zy590554@dal.ca', office: 'Dunn Building 243', image: 'assets/img/ziyi_zhang.jpeg', url: 'ziyi_zhang'}
 - {name: 'Owen Sullivan', role: 'Undergraduate Student', department: 'Physics & Atmospheric Science', institution: 'Dalhousie University', email: 'owensullivan@dal.ca', image: 'assets/img/owenpic.jpeg', url: ''}
 
 alumni:
