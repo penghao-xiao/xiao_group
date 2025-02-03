@@ -18,3 +18,18 @@ layout: default
   </div>
 </div>
 {% endfor %}
+
+<h3 class="fw-bold border-bottom pb-3 mb-5">Alumni</h3>
+{% for alumni in site.data.settings.alumni %}
+<div class="row g-5 mb-5">
+  <div class="col-md-6">
+    <h5>{{ alumni.name }}</h5>
+    <p>{{ alumni.role }}</p>
+    <p>Email: {{ alumni.email }}</p>
+    <p><a href="{{ site.github.url }}/alumni/{{ alumni.url }}">More info</a></p>
+  </div>
+  <div class="col-md-6">
+    <img src="{{ site.github.url }}/{{ alumni.image }}" alt="Contact" width="50%">
+  </div>
+</div>
+{% endfor %}
