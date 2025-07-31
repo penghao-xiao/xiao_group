@@ -29,4 +29,4 @@ social:
 - {icon: 'linkedin', link: 'https://linkedin.com/in/penghao-xiao-937a6362'}
 
 contacts:
-- {name: 'Dr. Penghao Xiao', title: 'Assitant Professor', department: 'Physics & Atmospheric Science', institution: 'Dalhousie University', institution_address: 'Halifax, NS, Canada', phone: '(902) 494-2340', email: 'pxiao@dal.ca', secondary email: 'xiaopenghao1 at gmail.com', office: 'Dunn Building 230', image: 'assets/img/contact.png',}
+- {name: 'Dr. Penghao Xiao', title: 'Assitant Professor', department: 'Physics & Atmospheric Science', institution: 'Dalhousie University', institution_address: 'Halifax, NS, Canada', phone: '(902) 494-2340', email: 'pxiao@dal.ca or xiaopenghao1@gmail.com', office: 'Dunn Building 230', image: 'assets/img/contact.png',}
